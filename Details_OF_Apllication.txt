@@ -1,0 +1,9 @@
+ Book Store Application
+
+In this Project i started bookshop app,coupans app,orders app,payment app,users app and cart app
+There are three models in Bookshop-Category,product,reviews and coupans and orders model
+in this a admin can view review,rating of books and adding a book and more things edit and viewed by admin in administration login
+A user can  bought a book 
+After login a user can give ratings of books 
+In future i will work on admin login from frontend by which admin add a book edit and control everything from outside admin panel 
+ 
